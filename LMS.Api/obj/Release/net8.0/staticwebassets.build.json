@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/5H7L0AnvcIGKfOfjZqTlPKAPHlpzjf2DQI1opFPXFg=",
+  "Source": "LMS.Api",
+  "BasePath": "_content/LMS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,15 @@
+C:\Users\classifi\source\repos\LMS\LMS.Services\bin\Release\net8.0\LMS.Services.deps.json
+C:\Users\classifi\source\repos\LMS\LMS.Services\bin\Release\net8.0\LMS.Services.dll
+C:\Users\classifi\source\repos\LMS\LMS.Services\bin\Release\net8.0\LMS.Services.pdb
+C:\Users\classifi\source\repos\LMS\LMS.Services\bin\Release\net8.0\LMS.Repo.dll
+C:\Users\classifi\source\repos\LMS\LMS.Services\bin\Release\net8.0\LMS.Repo.pdb
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\LMS.Services.csproj.AssemblyReference.cache
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\LMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\LMS.Services.AssemblyInfoInputs.cache
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\LMS.Services.AssemblyInfo.cs
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\LMS.Services.csproj.CoreCompileInputs.cache
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\LMS.Serv.0D067825.Up2Date
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\LMS.Services.dll
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\refint\LMS.Services.dll
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\LMS.Services.pdb
+C:\Users\classifi\source\repos\LMS\LMS.Services\obj\Release\net8.0\ref\LMS.Services.dll
