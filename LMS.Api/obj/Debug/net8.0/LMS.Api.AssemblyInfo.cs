@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LMS.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d881da016d4b7abc0d7cff68335ce46595132832")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67bcf52cd0b32adcb4ee2793182c6b4d3ae4a9b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LMS.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LMS.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
