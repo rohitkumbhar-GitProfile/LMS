@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Api\\LMS.Api.csproj": {}
+    "/Users/dhiraj_modi/LMS/LMS.Api/LMS.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Api\\LMS.Api.csproj": {
+    "/Users/dhiraj_modi/LMS/LMS.Api/LMS.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Api\\LMS.Api.csproj",
+        "projectUniqueName": "/Users/dhiraj_modi/LMS/LMS.Api/LMS.Api.csproj",
         "projectName": "LMS.Api",
-        "projectPath": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Api\\LMS.Api.csproj",
-        "packagesPath": "C:\\Users\\classifi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Api\\obj\\",
+        "projectPath": "/Users/dhiraj_modi/LMS/LMS.Api/LMS.Api.csproj",
+        "packagesPath": "/Users/dhiraj_modi/.nuget/packages/",
+        "outputPath": "/Users/dhiraj_modi/LMS/LMS.Api/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\classifi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dhiraj_modi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Services\\LMS.Services.csproj": {
-                "projectPath": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Services\\LMS.Services.csproj"
+              "/Users/dhiraj_modi/LMS/LMS.Services/LMS.Services.csproj": {
+                "projectPath": "/Users/dhiraj_modi/LMS/LMS.Services/LMS.Services.csproj"
               }
             }
           }
@@ -47,8 +41,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -96,32 +89,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Repo\\LMS.Repo.csproj": {
+    "/Users/dhiraj_modi/LMS/LMS.Repo/LMS.Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Repo\\LMS.Repo.csproj",
+        "projectUniqueName": "/Users/dhiraj_modi/LMS/LMS.Repo/LMS.Repo.csproj",
         "projectName": "LMS.Repo",
-        "projectPath": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Repo\\LMS.Repo.csproj",
-        "packagesPath": "C:\\Users\\classifi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Repo\\obj\\",
+        "projectPath": "/Users/dhiraj_modi/LMS/LMS.Repo/LMS.Repo.csproj",
+        "packagesPath": "/Users/dhiraj_modi/.nuget/packages/",
+        "outputPath": "/Users/dhiraj_modi/LMS/LMS.Repo/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\classifi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dhiraj_modi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -139,8 +126,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -183,40 +169,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Services\\LMS.Services.csproj": {
+    "/Users/dhiraj_modi/LMS/LMS.Services/LMS.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Services\\LMS.Services.csproj",
+        "projectUniqueName": "/Users/dhiraj_modi/LMS/LMS.Services/LMS.Services.csproj",
         "projectName": "LMS.Services",
-        "projectPath": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Services\\LMS.Services.csproj",
-        "packagesPath": "C:\\Users\\classifi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Services\\obj\\",
+        "projectPath": "/Users/dhiraj_modi/LMS/LMS.Services/LMS.Services.csproj",
+        "packagesPath": "/Users/dhiraj_modi/.nuget/packages/",
+        "outputPath": "/Users/dhiraj_modi/LMS/LMS.Services/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\classifi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dhiraj_modi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Repo\\LMS.Repo.csproj": {
-                "projectPath": "C:\\Users\\classifi\\source\\repos\\LMS\\LMS.Repo\\LMS.Repo.csproj"
+              "/Users/dhiraj_modi/LMS/LMS.Repo/LMS.Repo.csproj": {
+                "projectPath": "/Users/dhiraj_modi/LMS/LMS.Repo/LMS.Repo.csproj"
               }
             }
           }
@@ -230,8 +210,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -270,7 +249,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
