@@ -97,21 +97,6 @@ namespace LMS.Api.Controllers
         }
 
 
-        [HttpPost("CheckAttention/{userId}")]
-        public async Task<IActionResult> CheckAttention(int userId)
-        {
-            //var user = await _userService.LoginAsync(userDto);
-
-            // if (user ==null)
-            // {
-            //     return Unauthorized(new { Message = "Invalid credentials" });
-            // }
-
-            // return Ok(new
-            // {
-            //     Result = null,
-            //     Message = "Login successful"
-            // });
-        }
+        
     }
 }

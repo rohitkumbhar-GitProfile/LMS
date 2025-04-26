@@ -16,6 +16,7 @@ namespace LMS.Repo
         }
         public DbSet<Users> Users { get; set; }
         public DbSet<UserCourses> UserCourses { get; set; }
+        public DbSet<UserProfile> UserProfile { get; set; }
         //public DbSet<UserQuizScore> UsersQuiz { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

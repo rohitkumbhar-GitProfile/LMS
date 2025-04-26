@@ -43,15 +43,21 @@ builder.Services.AddScoped<IAIClient, OpenAIAgent>();
 builder.Services.Configure<TextToSpeechOptions>(builder.Configuration.GetSection("TextToSpeech"));
 builder.Services.AddScoped<ITTSClient, GPT4MiniTTSClient>();
 builder.Services.AddScoped<ITTSService, TTSService>();
+builder.Services.AddScoped<IUserProfileService, UserProfileService>();
+builder.Services.AddScoped<IUserProfileRepository, UserProfileRepository>();
+builder.Services.AddHttpClient<ArticleService>();
+builder.Services.AddScoped<ArticleService>();
 
 builder.Services.AddAuthorization();
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowLocalhost", 
-        policy => policy.WithOrigins("http://localhost:4200")
-                        .AllowAnyHeader()
-                        .AllowAnyMethod()
-                        .AllowCredentials());
+    options.AddPolicy("AllowLocalhost", policy =>
+    {
+        policy.WithOrigins("http://localhost:4200")  // Must match exactly
+              .AllowAnyHeader()
+              .AllowAnyMethod()
+              .AllowCredentials();
+    });
 });
 var app = builder.Build();
 
@@ -60,11 +66,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-app.UseCors("AllowLocalhost");
 app.UseHttpsRedirection();
+
+// ➔ Add CORS middleware early
+app.UseCors("AllowLocalhost");
+
+// ➔ Then authentication/authorization
 app.UseAuthentication();
 app.UseAuthorization();
 
+// ➔ Map your controllers
 app.MapControllers();
 
 app.Run();
